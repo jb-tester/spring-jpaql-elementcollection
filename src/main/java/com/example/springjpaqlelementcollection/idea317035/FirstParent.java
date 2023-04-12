@@ -1,9 +1,7 @@
 package com.example.springjpaqlelementcollection.idea317035;
 
-import jakarta.persistence.ElementCollection;
-import jakarta.persistence.Entity;
-import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.Id;
+import jakarta.persistence.*;
+//import javax.persistence.*;
 
 import java.util.SortedSet;
 

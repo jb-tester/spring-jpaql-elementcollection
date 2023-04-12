@@ -1,6 +1,7 @@
 package com.example.springjpaqlelementcollection.idea120966;
 
 import jakarta.persistence.*;
+//import javax.persistence.*;
 
 import java.util.Collection;
 import java.util.LinkedList;

@@ -1,8 +1,7 @@
 package com.example.springjpaqlelementcollection.idea120966;
 
-import jakarta.persistence.Basic;
-import jakarta.persistence.Embeddable;
-import jakarta.persistence.Id;
+import jakarta.persistence.*;
+//import javax.persistence.*;
 
 import java.io.Serializable;
 
